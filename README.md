@@ -8,5 +8,5 @@ We are recording a series of commit logs for playback to set up an exfiltration 
 
 ## Setup Steps
 ``` main.py
-# Add code here
+python3 main.py
 ```
